@@ -16,7 +16,7 @@ source venv/bin/activate
 
 pip install --upgrade pip
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install transformers datasets accelerate peft coze gradio
+pip install transformers datasets accelerate peft gradio
 ````
 
 ### CUDA 支持
